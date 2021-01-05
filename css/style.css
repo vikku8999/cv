@@ -1,0 +1,30 @@
+body {
+  background-color: lavender;
+  width: 100%;
+  height: 100%;
+}
+
+h1 {
+  color: #663399;
+
+}
+
+h2 {
+  color: deepskyblue;
+}
+
+h3{
+  color: darkorchid;
+}
+hr {
+  background-color: lavender;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  border-color: white;
+  width: 10%;
+}
+
+.image{
+  border-radius: 50%;
+}
